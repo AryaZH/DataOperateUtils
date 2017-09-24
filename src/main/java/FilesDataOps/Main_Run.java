@@ -11,7 +11,6 @@ public class Main_Run {
 		
 		ExcelRead er = new ExcelRead();
 		//er.ReadExcel();
-		
 		er.ReadExcel_M1();
    
 	}
